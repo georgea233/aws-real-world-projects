@@ -7,7 +7,7 @@ vi dbinfo.inc
 
 define('DB_SERVER', 'prod-database.c3wsmu6gu78x.us-west-1.rds.amazonaws.com');
 define('DB_USERNAME', 'admin');
-define('DB_PASSWORD', 'admin2022');
+define('DB_PASSWORD', 'admin12345');
 define('DB_DATABASE', 'phpappdatabase');
 
 ?>
